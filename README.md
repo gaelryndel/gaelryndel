@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @gaelryndel
+- 👀 I’m interested in 11ty, LaTeX, open source
+- 🌱 I’m currently learning Deno
+- 💞️ I’m looking to collaborate on open source projects
