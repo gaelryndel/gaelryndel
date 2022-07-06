@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @gaelryndel
-- 👀 I’m interested in 11ty, LaTeX, open source
-- 🌱 I’m currently learning Deno
-- 💞️ I’m looking to collaborate on open source projects
+There's no such thing as autobiography, there's only [art and lies](https://gaelryndel.xyz).
